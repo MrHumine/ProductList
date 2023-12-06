@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductList</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textview">TextView</string>
+    <string name="save">Save</string>
+    <string name="text">Text</string>
+</resources>
